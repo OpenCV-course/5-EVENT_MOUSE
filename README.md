@@ -3,7 +3,11 @@
 2. [Ponemos nombre a la ventana donde va a estar la imagen](#schema2)
 3. [Necesitamos la función setMouseCallBack.](#schema3)
 4. [Creamos la función dibujando](#schema4)
+5. [Ejemplos de acciones con algunos eventos del mouse](#schema5)
+6. [Vamos a visualizar la imagen y el click del raton](#schema6)
 
+
+![img](./images/001.png)
 <hr>
 
 <a name="schema1"></a>
